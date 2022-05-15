@@ -1,6 +1,13 @@
 - 👋 Hi, I’m @Priyansh717
-- 👀 I’m interested in Web Development & Python
-- 🌱 I’m currently learning Laravel
+- MySelf = {
+-   Name: "Priyansh Kumar Rajbhar"
+-   Age :  "16 Years"
+-   Gender : "Male"
+-   Standard: "10th"
+-   Interested: "Full Stack Web Developer & Python"
+-   Learning : "Laravel"
+-   Location : "Gujarat, India"
+-}   
 - 💞️ I’m looking to collaborate on Frontend Web-Developer & Blogging 
 - 📫 You can contact me on email : priyanshrajbhar499@gmail.com
 
